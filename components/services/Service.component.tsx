@@ -8,7 +8,7 @@ export const Service = () => {
       <p className='text-md md:text-3xl lg:text-4xl pl-2 md:pl-10 text-[#fd8704] border-l-[10px] md:border-l-[15px] border-[#fd8704]'>
         Pourquoi choisir nos formules de déménagements ?
       </p>
-      <div className='flex flex-col md:flex-row gap-10 pt-20'>
+      <div className='flex flex-col lg:flex-row  gap-10 pt-20'>
         <div className='flex-1 bg-white shadow-lg rounded-lg p-5 text-center mt-10'>
           <div className='flex items-center justify-center -mt-20 mb-10'>
             <div className='p-5 bg-white rounded-full'>
