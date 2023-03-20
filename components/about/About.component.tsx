@@ -8,7 +8,7 @@ export const About = () => {
       <div className='flex-1 pb-20'>
         <div className='text-left px-5 md:px-10'>
           <div>
-            <p className='text-md md:text-3xl lg:text-4xl pl-2 md:pl-10 text-[#fd8704] border-l-[10px] md:border-l-[15px] border-[#fd8704]'>{aboutrData.title} </p>
+            <p className='text-md md:text-3xl lg:text-4xl pl-2 md:pl-10 text-[#0080FE] border-l-[10px] md:border-l-[15px] border-[#0080FE]'>{aboutrData.title} </p>
             <p className='text-xs md:text-lg my-3 text-gray-500'>
             Vous cherchez une société de déménagement proposant plusieurs formules correspondant réellement a vos attentes ?
             </p>

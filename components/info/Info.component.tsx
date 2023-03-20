@@ -6,18 +6,18 @@ export const Info = () => {
   return (
     <div className='flex flex-col justify-center items-center lg:flex-row py-10 md:py-20 px-4 sm:px-10 md:px-32 bg-[#f7f7f7]'>
       <div className='flex-1 mb-5'>
-        <p className='flex justify-center items-center text-sm md:text-lg lg:text-1xl text-[#fd8704]'>CONTACT</p>
-        <span className='flex justify-center gap-3 text-center'> <AiOutlineMail color='#fd8704' size='20' /> transaylan@yahoo.com</span>
-        <span className='flex justify-center gap-3 text-center'> <AiOutlinePhone color='#fd8704' size='20' />  0778 644 567</span>
+        <p className='flex justify-center items-center text-sm md:text-lg lg:text-1xl text-[#0080FE]'>CONTACT</p>
+        <span className='flex justify-center gap-3 text-center'> <AiOutlineMail color='#0080FE' size='20' /> transaylan@yahoo.com</span>
+        <span className='flex justify-center gap-3 text-center'> <AiOutlinePhone color='#0080FE' size='20' />  0778 644 567</span>
       </div>
       <div className='flex-1 mb-5'>
-        <p className='flex justify-center items-center text-sm md:text-lg lg:text-1xl text-[#fd8704]'>ADRESSE</p>
-        <span className='flex justify-center gap-3 text-center'> <CiLocationOn color='#fd8704' size='20' /> 1234 rue adresse paris</span>
+        <p className='flex justify-center items-center text-sm md:text-lg lg:text-1xl text-[#0080FE]'>ADRESSE</p>
+        <span className='flex justify-center gap-3 text-center'> <CiLocationOn color='#0080FE' size='20' /> 1234 rue adresse paris</span>
       </div>
       <div className='flex-1 mb-5'>
-        <p className='flex justify-center items-center text-sm md:text-lg lg:text-1xl text-[#fd8704]'>HORAIRES D'OUVERTURE</p>
+        <p className='flex justify-center items-center text-sm md:text-lg lg:text-1xl text-[#0080FE]'>HORAIRES D'OUVERTURE</p>
         <span  className='flex justify-center gap-3 text-center'> 
-        <AiOutlineClockCircle color='#fd8704' size='20' />
+        <AiOutlineClockCircle color='#0080FE' size='20' />
         Du lundi au vendredi de 9h à 12h <br/>et de 14h à 18h</span>
       </div>
     </div>
