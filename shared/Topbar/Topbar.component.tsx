@@ -17,7 +17,7 @@ export const Topbar = () => {
         </div>
         <div className='flex-1 flex items-center justify-end gap-4'>
           <span>Contact<span className='hidden md:inline'>ez-nous</span> </span>
-          <Link href='tel:0553872956' className='text-xs bg-[#fd8704] text-white py-2 px-4 rounded-sm hover:bg-[#fda847] transition-colors ease-linear'>045 455 567 456</Link>
+          <Link href='tel:0778644567' className='text-xs bg-[#fd8704] text-white py-2 px-4 rounded-sm hover:bg-[#fda847] transition-colors ease-linear'>0778 644 567</Link>
         </div>
       </nav>
     </header>

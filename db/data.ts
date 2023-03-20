@@ -1,12 +1,12 @@
 export const bannerData = {
   img: '/banner.webp',
-  title: "Déménagements",
+  title: "Transaylan déménagement / garde meuble",
   descriptionOne: "Demandez votre devis gratuit en remplissant le formulaire ci-dessous. Un expert <strong>TRANSAYLAN Déménagement</strong> vous contactera afin d'évaluer vos besoins et de vous fournir un devis personnalisé et compétitif.",
 }
 
 export const aboutrData = {
   img: '/about.png',
-  title: "Il vous faut une équipe de déménageurs pour effectuer la manutention et le transport liés à votre changement d'adresse ?",
+  title: "Nos meilleure solution pour votre démenagement",
   descriptionOne: "Votre équipe de déménageurs professionnels sur l'ensemble du territoire français.",
 }
 

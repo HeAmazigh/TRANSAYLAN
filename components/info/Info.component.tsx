@@ -7,8 +7,8 @@ export const Info = () => {
     <div className='flex flex-col justify-center items-center lg:flex-row py-10 md:py-20 px-4 sm:px-10 md:px-32 bg-[#f7f7f7]'>
       <div className='flex-1 mb-5'>
         <p className='flex justify-center items-center text-sm md:text-lg lg:text-1xl text-[#fd8704]'>CONTACT</p>
-        <span className='flex justify-center gap-3 text-center'> <AiOutlineMail color='#fd8704' size='20' />  email@gmail.com</span>
-        <span className='flex justify-center gap-3 text-center'> <AiOutlinePhone color='#fd8704' size='20' />  00354 453 453</span>
+        <span className='flex justify-center gap-3 text-center'> <AiOutlineMail color='#fd8704' size='20' /> transaylan@yahoo.com</span>
+        <span className='flex justify-center gap-3 text-center'> <AiOutlinePhone color='#fd8704' size='20' />  0778 644 567</span>
       </div>
       <div className='flex-1 mb-5'>
         <p className='flex justify-center items-center text-sm md:text-lg lg:text-1xl text-[#fd8704]'>ADRESSE</p>
